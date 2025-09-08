@@ -2,7 +2,7 @@
 
 # Restaurant Website – Responsive Frontend Design
 
-A modern, mobile-friendly restaurant website built using **HTML**, **CSS**, and **JavaScript**, designed to deliver a delightful user experience across devices. This project showcases key frontend components and layout techniques for real-world business needs.
+A modern, mobile-friendly restaurant website built using **HTML**, **CSS** designed to deliver a delightful user experience across devices. This project showcases key frontend components and layout techniques for real-world business needs.
 
 # Features
 
