@@ -26,7 +26,3 @@ A modern, mobile-friendly restaurant website built using **HTML**, **CSS** desig
 # Acknowledgements
 
 Thanks for visiting! This project is part of my frontend development journey. Feedback and suggestions are welcome.
-
----
-
-Let me know if you'd like help writing the README for your Power BI dashboards or want to turn this into a LinkedIn carousel post. You're building a solid portfolio!
